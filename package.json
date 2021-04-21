@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mcris-17/new-animal-api#readme",
   "dependencies": {
-    "json-server": "^0.16.3"
+    "json-server": "^0.16.3",
+    "serve": "^11.3.2"
   }
 }
